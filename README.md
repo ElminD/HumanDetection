@@ -29,6 +29,7 @@ cap = cv2.VideoCapture('video.mp4')
 🌸Pink Boxes  = Upper Body  <br />
 🟨Yellow Boxes = Full Body  <br />
 
+The 🔥🗺️ HeatMap detects change and will increase in "temp" based on movement
 
 <img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif">
 <img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif2.gif">
