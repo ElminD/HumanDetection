@@ -24,3 +24,5 @@ cap = cv2.VideoCapture('video.mp4')
 
 ## Demo
 <img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif">
+<img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif2.gif">
+<img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif3.gif">
