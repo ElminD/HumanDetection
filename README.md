@@ -18,4 +18,9 @@ pip install opencv-python
 cap = cv2.VideoCapture(0)
 0,1,2. Change value based on which webcam you wish to use 
 
-<img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif" >
+#Most Video files are also supported 
+cap = cv2.VideoCapture('video.mp4')
+```
+
+## Demo
+<img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif">
