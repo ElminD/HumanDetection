@@ -23,17 +23,11 @@ cap = cv2.VideoCapture('video.mp4')
 ```
 
 ## Demo
-<style>
-blue { color: blue }
-yellow { color: yellow }
-pink { color: pink }
-green { color: green }
-</style>
 
-<blue> Blue Boxes </blue> = Face
-<green> Green Boxes </green> = Eyes
-<pink> Pink Boxes </pink> = Upper Body
-<yellow> Yellow Boxes </yellow> = Full Body
+🟦Blue Boxes = Face  <br />
+🟩Green Boxes  = Eyes  <br />
+🌸Pink Boxes  = Upper Body  <br />
+🟨Yellow Boxes = Full Body  <br />
 
 
 <img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif">
