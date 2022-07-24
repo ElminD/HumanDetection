@@ -1,11 +1,21 @@
-# HumanDetection AI Camera Detection
+# HumanDetection
+HumanDetection is a Computer Vision project detecting Human Faces, Eyes, Upper body and, Full Body.
 Using OpenCV 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 and Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+## Installation
 
-<font color="blue"> Blue Boxes </font> = Face
-<font color="green"> Green Boxes </font> = Eye
-<font color="pink"> Pink Boxes </font> = Upper Body
-<font color="yellow"> Yellow Boxes </font> = Full Body
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install opencv for python.
+
+```bash
+pip install opencv-python
+```
+
+## Usage
+
+```python
+#Line 31
+cap = cv2.VideoCapture(0)
+0,1,2. Change value based on which webcam you wish to use 
 
 <img src="https://github.com/ElminD/HumanDetection/blob/main/opencvgif.gif" >
